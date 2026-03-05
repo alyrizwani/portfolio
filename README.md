@@ -92,7 +92,7 @@ Portfolio/
 ### Update Profile Image
 Replace `self.jpeg` with your own photo and update the filename in `index.html`:
 ```html
-<img src="your-image.jpg" alt="Your Name" class="profile-img">
+<img src="self.jpg" alt="ali raza" class="profile-img">
 ```
 
 ### Change Color Scheme
