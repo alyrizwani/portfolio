@@ -169,5 +169,3 @@ This portfolio was created to showcase my skills and experience as a WordPress D
 ---
 Checkout website here
 https://alyrizwani.github.io/portfolio/
----
-**Created with ❤️ - Ali Raza**
